@@ -1,2 +1,1 @@
-# example-repository
-# MY RESUME 
+# My-Resume
