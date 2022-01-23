@@ -1,5 +1,6 @@
 h1 {
     background-color: aliceblue;
+    text-align: center;
 }
 
 nav {
@@ -28,10 +29,19 @@ body {
     background: #00021f;
 }
 
+h2 {
+    background-color: aliceblue;
+    text-align: center;
+}
+
 img {
     display: block;
     width: 500px;
     height: 500px;
-    padding: 25px;
     margin: auto;
+    border-width: 100px;
+    border-style: solid;
+    border-color: black;
 }
+
+
