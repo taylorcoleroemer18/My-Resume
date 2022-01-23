@@ -14,7 +14,7 @@ nav {
     color: #fff;
     border: 1px solid;
     padding: 0.5rem;
-    text-align: right;
+    text-align: center;
     text-decoration: none;
     transition: all 0.5s ease-out;
   }
@@ -27,6 +27,11 @@ nav {
 
 body {
     background: #00021f;
+}
+
+p {
+    color: blanchedalmond;
+    font-size: large;
 }
 
 h2 {
