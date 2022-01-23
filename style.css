@@ -1,13 +1,37 @@
+h1 {
+    background-color: aliceblue;
+}
+
+nav {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  a {
+    flex: 1;
+    background-color: #05076448;
+    color: #fff;
+    border: 1px solid;
+    padding: 0.5rem;
+    text-align: right;
+    text-decoration: none;
+    transition: all 0.5s ease-out;
+  }
+  
+  a:hover,
+  a:focus {
+    background-color: #fff;
+    color: #333;
+  }
+
 body {
-    background: rgb(108, 108, 235);
+    background: #00021f;
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    display: block;
+    width: 500px;
+    height: 500px;
     padding: 25px;
-}
-
-p, ul {
-    text-align: center;
+    margin: auto;
 }
