@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[user]
+	name = Taylor Roemer
+	email = taylor_roemer@yahoo.com
+[init]
+	defaultBranch = main
